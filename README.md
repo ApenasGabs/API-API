@@ -3,19 +3,19 @@
 <h1 align="center">API API</h1>
 
 <p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/ApenasGabs/api-node-express?color=56BEB8">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/ApenasGabs/API-API?color=56BEB8">
 
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/ApenasGabs/api-node-express?color=56BEB8">
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/ApenasGabs/API-API?color=56BEB8">
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/ApenasGabs/api-node-express?color=56BEB8">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/ApenasGabs/API-API?color=56BEB8">
 
-  <img alt="Licença" src="https://img.shields.io/github/license/ApenasGabs/api-node-express?color=56BEB8">
+  <img alt="Licença" src="https://img.shields.io/github/license/ApenasGabs/API-API?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/ApenasGabs/api-node-express?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/ApenasGabs/API-API?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/ApenasGabs/api-node-express?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/ApenasGabs/API-API?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/ApenasGabs/api-node-express?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/ApenasGabs/API-API?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
